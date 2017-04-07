@@ -37,4 +37,4 @@
 *.sdf
 *.opensdf
 
-/Debug/
+Debug/
